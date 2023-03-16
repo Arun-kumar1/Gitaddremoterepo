@@ -1,3 +1,6 @@
 Amazon Web Service AWS
 S3 object storage store unlimited amount of data
 IAM Identity Access Management
+vpc 
+root table
+subnet
