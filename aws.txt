@@ -4,3 +4,8 @@ IAM Identity Access Management
 vpc 
 root table
 subnet
+internet gateway
+nat gateway
+egress gateway
+vpn
+
