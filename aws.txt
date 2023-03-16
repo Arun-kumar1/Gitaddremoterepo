@@ -8,4 +8,4 @@ internet gateway
 nat gateway
 egress gateway
 vpn
-
+cloud trail
